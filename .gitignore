@@ -1,0 +1,166 @@
+###############################
+# Text editor temporary files #
+###############################
+*~
+
+###############
+# C++ general #
+###############
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Executables
+*.exe
+*.out
+*.app
+
+######
+# Qt #
+######
+
+# Qt-es
+
+/.qmake.cache
+/.qmake.stash
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*-build-*
+.qtquickcompiler
+
+# QtCreator
+
+*.autosave
+
+#QtCtreator Qml
+*.qmlproject.user
+*.qmlproject.user.*
+
+#######################
+# OS X specific files #
+#######################
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+######
+# VS #
+######
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+
+##########
+# Studio #
+##########
+
+# Generated version headers
+VersionNo.h
+
+#####################
+# Build directories #
+#####################
+build/
+debug/
+release/
+builds/
+
+##################
+# Boost
+##################
+RodentScannerApp/3rdparty/boost/1.61/include
+RodentScannerApp/3rdparty/boost/1.61/lib
+
+#Other
+/ViewFinder/ViewFinder.VC.db
+.qmake.stash
+conanbuildinfo.pri
+conanbuildinfo.pri
+conanbuildinfo.pri
+/RodentScannerApp/source/RodentScannerApp/deactivate.bat
+/RodentScannerApp/source/RodentScannerApp/deactivate.ps1
+/RodentScannerApp/source/RodentScannerApp/deactivate.bat
+activate.bat
+activate.ps1
+conaninfo.txt
+deactivate.bat
+deactivate.ps1
+deactivate.bat
+*.ps1
+/BioVolume/src/RodentScannerApp/bv_build_number.h
+bv_build_number.txt
+*.qmake.cache
+
+/build-BioVolume-Desktop_Qt_5_9_2_MSVC2015_64bit-Release/.qmake.cache
+/BioVolume/src/ViewFinder/conan/activate.bat
+/BioVolume/src/ViewFinder/conan/activate.ps1
+/BioVolume/src/ViewFinder/conan/conaninfo.txt
+/BioVolume/src/ViewFinder/conan/deactivate.bat
+/BioVolume/src/ViewFinder/conan/deactivate.ps1
+/BioVolume/src/RodentScannerApp/conan/conaninfo.txt
+/BioVolume/src/RodentScannerApp/conan/activate.bat
+/BioVolume/src/RodentScannerApp/conan/activate.ps1
+conanbuildinfo.txt
+target_wrapper.bat
+__resources_ViewFinder_vf_qtquickcompiler.qrc
+viewer_qtquickcompiler.qrc
+
+BioVolume/3rdparty/googletest
